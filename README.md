@@ -1,3 +1,4 @@
+# Moved to https://github.com/TKOaly/heppa
 # HEPPA
 HEPPA: hyvin edistynyt perjantaipiirretty applikaatio.
 Web-app that allows approval voting (with veto), intended for selecting the Gurula friday cartoon. Started as a database application project over winter break 2018-2019.
